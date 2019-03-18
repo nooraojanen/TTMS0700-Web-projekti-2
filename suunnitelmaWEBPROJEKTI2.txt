@@ -41,3 +41,29 @@ Maria
 Ulkoasun rekennus
 
 Laura
+
+--------------------------------------------------------------------------------
+Sovelluksen rakenne
+-Etusivu
+
+-Naiset
+   *Suodatus
+
+-Miehet
+   *Suodatus
+
+-Ostoskorin selaaminen
+
+-Tilaaminen
+   *Tiedot lomakkeelle
+   *Tilausvahvistuksen näyttäminen
+
+-Toivelista
+
+routes
+
+views
+-
+
+controllers
+-
