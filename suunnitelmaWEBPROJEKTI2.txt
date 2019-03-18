@@ -1,0 +1,43 @@
+- GitHub
+	- Päivitetään dokumentaatiota AINA kun tekee, niin ei tarvitse kuin vaikka tiivistää sitten lopussa?
+	- GitHubiin suoraan (omat "tarkemmat" erikseen?)
+	- Masteriin ei suoraan muutoksia -> tehdään omat branchit
+	- ReadMe:hen sellainen Kari resurssitaulukko?
+- Miun ja Nooran jo tekemä tietokantatyö pohjalle?
+	- Järjestetään kaikille tietokantakoodi, jos haluaa esim. omille sivuilleen saada sen näkyviin tulevaisuudessa.
+- Miten saataisiin jako tehtyä? (minuu kiinnostaa tehdä tietokantajuttuja/lausekkeita tietojen ulos saantiin ainakin)
+
+
+// TYÖ ITSE
+- Vaatekauppa edelleen
+	- Mitkä välttämättömiksi ominaisuuksiksi?
+	- Kanta-asiakasjärjestelmä?
+- Laravellilla tekoa?
+- Ulkoasun teko bootstrapilla?
+
+- Aloitus sillä, että saadaan tietokanta toimimaan, lisättyä tuotteita sinne ja tulostettua tuotteita esim. kengät erikseen ym.
+	- Asiakas voi selata tuotteita
+- Seuraavaksi ostoskori
+	- Voi lisätä tuotteen koriin
+	- Voi tehdä tilauksen
+		- Tarkistukset (keskity vasta toimivan työn jälkeen)
+	- Tilaus miinustuu saldosta
+- Toivomuslista 
+	- Sellainen ettei liity käyttäjään (session?)
+- Tuotearvostelun tekeminen
+- Ylläpitäjä osuus (tuotteiden hallinta)
+- Kanta-asiakasjärjestelmä
+
+https://www.digitalocean.com/products/linux-distribution/ubuntu/
+http://netisto.fi/oppaat/php/38-01.html
+
+* Johanna
+Tietokannan rakennus
+
+Noora
+Suodatuspalkki
+
+Maria
+Ulkoasun rekennus
+
+Laura
