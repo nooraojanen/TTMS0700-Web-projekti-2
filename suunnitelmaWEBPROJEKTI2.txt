@@ -41,7 +41,7 @@ Maria
 Ulkoasun rekennus
 
 Laura
-
+Ostoskorin rakennus
 --------------------------------------------------------------------------------
 Sovelluksen rakenne
 -Etusivu
