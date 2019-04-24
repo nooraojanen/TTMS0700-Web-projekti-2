@@ -6,4 +6,5 @@ Työn aihe: Verkkokauppa nimeltään Kauppa X, jossa myydään vaatteita naisill
 
 Tekijät:
 Noora Ojanen, Maria Salonen, Johanna Kaasalainen, Laura Ala-Korte
+
 Osoite: http://159.65.232.228/
